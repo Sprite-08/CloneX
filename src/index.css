@@ -1,0 +1,15 @@
+@import "tailwindcss";
+ 
+body {
+    background-color: black !important;
+    color: white; /* Ensures text is visible */
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    overflow-x: hidden;
+}
+
+html {
+    background-color: black !important;
+    height: 100%;
+}
